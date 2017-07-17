@@ -10,6 +10,11 @@
 
 ### Day 1: July 17, 2017
 
+**Today's Progress**: Worked some more on caesar's Cipher in C.  Finally got argv[1] to cast as an integer.
+
+**Thoughts:**This is much harder than it was in javascript.  I thought the prof said in the lecture(edx cs50 week 2) that you could cast a string as a number just by putting it into a mathematical expression, but I couldn't get it to work. Maybe argv[] is a special case. I ended up c&ping some code I don't completely understand to force argv[n] to be a number.  The code used pointers which haven't even been mentioned yet in class so I suspect I did not do this in the way they wanted.
+
+
 
 
 
