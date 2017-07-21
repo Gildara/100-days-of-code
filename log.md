@@ -24,9 +24,9 @@
 
 ### Day 3: July 19, 2017
 
-**Today's Progress:**Another long, frustrating day, but I did figure out how to process scss files.  
+**Today's Progress**Another long, frustrating day, but I did figure out how to process scss files.  
 
-**Thoughts:**I want to install the compass gem, but for some reason I can't find my ruby dir.  Doubly frustrating because I installed the sass preprossessor gem without any problem, so obviously ruby is installed somewhere, lol.
+**Thoughts**:I want to install the compass gem, but for some reason I can't find my ruby dir.  Doubly frustrating because I installed the sass preprossessor gem without any problem, so obviously ruby is installed somewhere, lol.
 
 
 ### Day 4: July 20, 2017
