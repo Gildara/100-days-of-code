@@ -36,6 +36,13 @@
 **Thoughts**:I got it to work using pointers, but I really don't think that is how I should be doing it, so tomorrow I will try to get it working sans pointers.
 
 
+### Day 5: July 21, 2017
+
+**Today's Progress**:Struggled with trying to get my Caesar's Cipher to work without using pointers.
+
+**Thoughts**:What's happening is kinda weird.Sometimes it gives me values and sometimes it gives me addresses. I think?...
+
+
 
 
 
