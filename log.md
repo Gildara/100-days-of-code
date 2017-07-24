@@ -51,6 +51,24 @@
 **Thoughts**: Saturday has always been my day off, or as much of a day off as I could make it, so I am going to watch vids and read up on things on my Saturdays, or other relatively easy tasks.
 
 
+### Day 7: July 23, 2017
+
+**Today's Progress**: Second day of 30 days of code and I can't figure out how to concat strings in C. But i did solve the rest of the problem.
+
+**Thoughts**: I may decide to drop 30days because the tutorial is for Java and I am trying to do the problems in C. Also I feel like my attention is spread too far with freecodecamp cs50 and 30days.
+
+
+### Day 8: July 23, 2017
+
+**Today's Progress**: Finally!! got the main part of Caesar's Cipher for cs 50 to work.
+
+**Thoughts**: That rush of seeing something work after being stuck for days is some powerful intermittant reinforcer.
+
+
+
+
+
+
 
 
 
