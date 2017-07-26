@@ -3,16 +3,16 @@
 
 ### Day 0:July 13, 2017
 
-**Today's Progress**:Will be starting my 100 days on Monday, July 17, 2017.
+**Today's Progress**: Will be starting my 100 days on Monday, July 17, 2017.
 
-**Thoughts**:I've hesitated to start this challenge because I believe it is good to take a day off once a week to give my subconscious time to process things.  But it seems like such a great idea I decided to give it a try.
+**Thoughts**: I've hesitated to start this challenge because I believe it is good to take a day off once a week to give my subconscious time to process things.  But it seems like such a great idea I decided to give it a try.
 
 
 ### Day 1: July 17, 2017
 
 **Today's Progress**: Worked some more on caesar's Cipher in C.  Finally got argv[1] to cast as an integer.
 
-**Thoughts** :This is much harder than it was in javascript.  I thought the prof said in the lecture(edx cs50 week 2) that you could cast a string as a number just by putting it into a mathematical expression, but I couldn't get it to work. Maybe argv[] is a special case. I ended up c&ping some code I don't completely understand to force argv[n] to be a number.  The code used pointers which haven't even been mentioned yet in class so I suspect I did not do this in the way they wanted.
+**Thoughts**:This is much harder than it was in javascript.  I thought the prof said in the lecture(edx cs50 week 2) that you could cast a string as a number just by putting it into a mathematical expression, but I couldn't get it to work. Maybe argv[] is a special case. I ended up c&ping some code I don't completely understand to force argv[n] to be a number.  The code used pointers which haven't even been mentioned yet in class so I suspect I did not do this in the way they wanted.
 
 
 ### Day 2: July 18, 2017
@@ -58,11 +58,25 @@
 **Thoughts**: I may decide to drop 30days because the tutorial is for Java and I am trying to do the problems in C. Also I feel like my attention is spread too far with freecodecamp cs50 and 30days.
 
 
-### Day 8: July 23, 2017
+### Day 8: July 24, 2017
 
 **Today's Progress**: Finally!! got the main part of Caesar's Cipher for cs 50 to work.
 
 **Thoughts**: That rush of seeing something work after being stuck for days is some powerful intermittant reinforcer.
+
+
+### Day 9: July 25, 2017
+
+**Today's Progress**: Did all the little stuff for the Caesar's Cipher problem and rechecked the specification to make sure it was all just so.
+
+**Thoughts**: I'm really learning a lot, but everything takes me so so long. Still every success builds my confidence a bit.
+
+
+### Day 10: July 26, 2017
+
+**Today's Progress**: Started the next exercise for cs50. It's another cypher called Vigenère’s. Worked through something called a segmentation fault.  Struggled with it for quite a while before noticing a flaw in my logic which was easily fixed. 
+
+**Thoughts**: Progress, but so slow. I should probably drop some of my other interests and just concentrate on this one, except I can't stay focused on just one thing for a long time.
 
 
 
