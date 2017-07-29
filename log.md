@@ -79,6 +79,27 @@
 **Thoughts**: Progress, but so slow. I should probably drop some of my other interests and just concentrate on this one, except I can't stay focused on just one thing for a long time.
 
 
+### Day 11: July 27, 2017
+
+**Today's Progress**: Continued work on cipher problem for cs50.
+
+**Thoughts**: I just noticed that freecodecamp now has their own version of an introductory programming class.  I've been feeling that my progress is so slow because I am dividing my attention. I am really enjoying the cs50 problems, but I am going to try to concentrate on freecodecamp.
+
+
+### Day 12: July 28, 2017
+
+**Today's Progress**: Looked at the next problem for freecodecamp, Search amd Replace. Ended up with a partial solution, but there is some kind of flaw.
+
+**Thoughts**:  On first looking at this problemI was clueless, but then it started to come together. I think I should approach programming they way I approach writing. Given a prompt or subject I have no idea what to write, but I truast that my subconscious will come up with something adequate.
+
+
+### Day 13: July 29, 2017
+
+**Today's Progress**
+
+**Thoughts**
+
+
 
 
 
