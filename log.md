@@ -90,14 +90,21 @@
 
 **Today's Progress**: Looked at the next problem for freecodecamp, Search amd Replace. Ended up with a partial solution, but there is some kind of flaw.
 
-**Thoughts**:  On first looking at this problemI was clueless, but then it started to come together. I think I should approach programming they way I approach writing. Given a prompt or subject I have no idea what to write, but I truast that my subconscious will come up with something adequate.
+**Thoughts**: On first looking at this problemI was clueless, but then it started to come together. I think I should approach programming they way I approach writing. Given a prompt or subject I have no idea what to write, but I trust that my subconscious will come up with something adequate.
 
 
 ### Day 13: July 29, 2017
 
-**Today's Progress**
+**Today's Progress**: Solved search and replace as soon as I glanced over yesterday's code. It was just that I forgot () after the function, lol. Started Pig Latin challenge. After much struggle and reading, conquered regexp.
 
-**Thoughts**
+**Thoughts**: I feel like an imposter. Yes, I seem to be doing better with the challenges, but I still suck so bad at design. The problem isn't that I suck at design, though. The problem is that I have no map for improvement and so I am just avoiding my wikireader.  
+
+
+### Day 14: July 30, 2017
+
+**Today's Progress**:
+
+**Thoughts**:
 
 
 
