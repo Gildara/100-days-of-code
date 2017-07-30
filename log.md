@@ -102,9 +102,18 @@
 
 ### Day 14: July 30, 2017
 
+**Today's Progress**: Working on fcc pig latin challenge.  Got it to work correctly if the word starts with a vowel or one consonant. Tried without success to get it to work if word starts with more than one consonant.
+
+**Thoughts**: Perhaps tomorrow I will try just coding in constant values for words that start with 2 consonants and then, if necessary, 3 in order to detect the underlying pattern I need.
+
+
+### Day 15: July 31, 2017
+
 **Today's Progress**:
 
 **Thoughts**:
+
+
 
 
 
