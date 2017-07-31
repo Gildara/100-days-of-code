@@ -109,9 +109,21 @@
 
 ### Day 15: July 31, 2017
 
+**Today's Progress** :I think I am on the cusp of understanding how to make pig Latin challenge work for all cases.
+
+**Thoughts**: I have too many ifs and fors and so on. It's confusing and ugly.  Maybe this is why we have functional programming? Right now I just want to get it working; erhaps then I will go back over functional programming and see if it looks useful. I'm going to start adding 'Plan' to the next day's log when I finish coding. That way I will know exactly where to start.
+
+
+
+### Day 16: August 1, 2017
+
+**Plan**: Try to finish pig latin challenge. If time I can start looking at the CSS3 extension gradients section.
+
 **Today's Progress**:
 
 **Thoughts**:
+
+
 
 
 
