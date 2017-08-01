@@ -119,6 +119,15 @@
 
 **Plan**: Try to finish pig latin challenge. If time I can start looking at the CSS3 extension gradients section.
 
+**Today's Progress**: Finished the pig Latin challenge. Started looking at chrome css3 gradient extension.  Codepen doesn't like it at all.
+
+**Thoughts**: I don't know if I am getting better at this, or if I have just been hitting a different kind of problem, but this seems easier.  I mean, it still takes me extremely long, but I am not sitting stumped for days.
+
+
+### Day 17: August 2, 2017
+
+**Plan**: Try to figure out how to do these css3 gradients. I that starts getting too stressful, I can check out the next freecodecamp problem.
+
 **Today's Progress**:
 
 **Thoughts**:
