@@ -126,11 +126,20 @@
 
 ### Day 17: August 2, 2017
 
-**Plan**: Try to figure out how to do these css3 gradients. I that starts getting too stressful, I can check out the next freecodecamp problem.
+**Plan**: Try to figure out how to do these css3 gradients. If that starts getting too stressful, I can check out the next freecodecamp problem.
+
+**Today's Progress**: Cut and pasted some examples of gradients and then played around with them to try to figure out how they work. 
+
+**Thoughts**: Two hours of experimenting with the code and I still don't really get it. I should probably just abandon the idea of a gradient background. It seems so easy and straight forward, but then it doesn't WAE.
+
+
+### Day 18: August 3, 2017
+
+**Plan**: Look around codepen to see how other people deal with having hardly any content. I may look at gradients some more, as sometimes after a break new ideas surface. I also have the option of letting this go and working on the next fcc problem. 
 
 **Today's Progress**:
 
-**Thoughts**:
+**Thoughts**: 
 
 
 
