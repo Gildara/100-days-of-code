@@ -135,11 +135,20 @@
 
 ### Day 18: August 3, 2017
 
+**Plan**: Try again to figure out linear gradients.
+
+**Today's Progress**: Finally got the linear gradient to work the way I want.  
+
+**Thoughts**:  I read the directions, do exactly what it says and then it doesn't work.  Then I start changing stuff and fooling around and after a while it usually starts working, but I don't really understand what I am doing.
+
+
+### Day 19: August 4, 2017
+
 **Plan**: Look around codepen to see how other people deal with having hardly any content. I may look at gradients some more, as sometimes after a break new ideas surface. I also have the option of letting this go and working on the next fcc problem. 
 
-**Today's Progress**:
+**Today's Progress**: Got a feel for how to deal with limited content on a page by looking through a bunch of codepen projects. Followed a tutorial to make a cool search box for wikipedia viewer project.
 
-**Thoughts**: 
+**Thoughts**: I'm unhappy with the (lack of) responsiveness of the page. 
 
 
 
