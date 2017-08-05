@@ -151,6 +151,16 @@
 **Thoughts**: I'm unhappy with the (lack of) responsiveness of the page. 
 
 
+### Day 20: August 5, 2017
+
+**Plan**: Saturday is normally my day off, which I use to regroup and give my subconscience a chance to catch up so I am going to try to find something that isn't really hard to do.
+
+**Today's Progress**:
+
+
+**Thoughts**: 
+
+
 
 
 
