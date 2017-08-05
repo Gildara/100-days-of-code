@@ -155,10 +155,19 @@
 
 **Plan**: Saturday is normally my day off, which I use to regroup and give my subconscience a chance to catch up so I am going to try to find something that isn't really hard to do.
 
+**Today's Progress**: Worked on making the wiki viewer responsive. Also spent a good bit of time experimenting with box shadows. 
+
+**Thoughts**: I didn't really make progress on the wiki viewer today, but I feel like I learned a lot, and I have an idea what to try next.
+
+
+### Day 21: August 6, 2017
+
+**Plan**: Back to bootstrap to refresh my memory and then I can try to apply it to the wiki viewer.
+
 **Today's Progress**:
 
-
 **Thoughts**: 
+
 
 
 
