@@ -164,6 +164,15 @@
 
 **Plan**: Back to bootstrap to refresh my memory and then I can try to apply it to the wiki viewer.
 
+**Today's Progress**: Went back to refresh my memory of bootstrap and then set up some bootstrap columns and adjusted the css for search box and button.
+
+**Thoughts**:  Why does it take so long to fiddle with css? It's like I am never satisfied. Also, I feel like I am not doing this right.
+
+
+### Day 22: August 7, 2017
+
+**Plan**: More css fussing and work on responsiveness.
+
 **Today's Progress**:
 
 **Thoughts**: 
