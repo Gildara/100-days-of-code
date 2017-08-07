@@ -173,7 +173,16 @@
 
 **Plan**: More css fussing and work on responsiveness.
 
-**Today's Progress**:
+**Today's Progress**: Finally got the search box and submit button to look the way I want.
+
+**Thoughts**: I find arranging elements on the page sooooo confusing. I thought bootstrap was supposed to help with that, but sometimes it just doesn't work the way I think it should. WHY is this so hard? I feel like that android Spock and company (OS) drove insane: "ILLOGICAL ILLOGICAL"
+
+
+### Day 23: August 8, 2017
+
+**Plan**: Continue struggling with the positioning of elements on the page.
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
