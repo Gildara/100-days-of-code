@@ -182,9 +182,18 @@
 
 **Plan**: Continue struggling with the positioning of elements on the page.
 
-**Today's Progress**: 
+**Today's Progress**: Got all the content on the page for the wikipedia viewer.
 
-**Thoughts**: 
+**Thoughts**: Just one thing is not responsive. Why? I don't know.
+
+
+### Day 24: August 9, 2017
+
+**Plan**: Work on responsiveness.
+
+**Today's Progress**:
+
+**Thoughts**:
 
 
 
