@@ -182,7 +182,7 @@
 
 **Plan**: Continue struggling with the positioning of elements on the page.
 
-**Today's Progress**: Got all the content on the page for the wikipedia viewer.
+**Today's Progress**: Got all the content on the page for the wikipedia viewer and styled it.
 
 **Thoughts**: Just one thing is not responsive. Why? I don't know.
 
