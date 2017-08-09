@@ -191,9 +191,18 @@
 
 **Plan**: Work on responsiveness.
 
-**Today's Progress**:
+**Today's Progress**: er, now it's worse?
 
-**Thoughts**:
+**Thoughts**: I need to learn to save my work before messing with it, because sometimes I forget to do that, and oh what a mess that makes.
+
+
+### Day 25: August 10, 2017
+
+**Plan**: Try to get things back the way they were by starting a new file and adding the code in a bit at a time so I can find what is causing the problem.
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 
 
