@@ -200,6 +200,15 @@
 
 **Plan**: Try to get things back the way they were by starting a new file and adding the code in a bit at a time so I can find what is causing the problem.
 
+**Today's Progress**: Learned about flex-box and w3-css framework.
+
+**Thoughts**: Neither flex-box nor w3-css would center the form.  Why is centering so hard? Did my coding late in the afternoon and I can see that is not a good time for me to be trying to figure things out.
+
+
+### Day 26: August 11, 2017
+
+**Plan**: Try flex-box again in case I was just too tired to make it work yesterday.
+
 **Today's Progress**: 
 
 **Thoughts**: 
