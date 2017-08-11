@@ -209,10 +209,19 @@
 
 **Plan**: Try flex-box again in case I was just too tired to make it work yesterday.
 
-**Today's Progress**: 
+**Today's Progress**: Nixed flexbox.  Got everything responsive across Chrome, Firefox and Edge.
 
-**Thoughts**: 
+**Thoughts**: It looks ok, but not exactly as I wanted.  Going to move on because perfect is the enemy of the good. 
 
+
+### Day 27: August 12, 2017
+
+
+**Plan**: 
+
+**Today's Progress**:
+
+**Thoughts**:
 
 
 
