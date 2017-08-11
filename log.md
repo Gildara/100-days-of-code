@@ -217,7 +217,8 @@
 ### Day 27: August 12, 2017
 
 
-**Plan**: 
+**Plan**: Not sure what I am going to work on. If I don't think of anything else, I can always start transferring everything to codepen.
+That should be good for several aggravating days.
 
 **Today's Progress**:
 
