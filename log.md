@@ -216,17 +216,21 @@
 
 ### Day 27: August 12, 2017
 
-
 **Plan**: Not sure what I am going to work on. If I don't think of anything else, I can always start transferring everything to codepen.
 That should be good for several aggravating days.
+
+**Today's Progress**:Tried to figure out why my weather api is no longer working. Started trying to figure out how to use wikipedia api.
+
+**Thoughts**: Wow wikipedia api is hard to understand. I think I finally (sort of) get it.  Noticed my random quote machine and local weather pens were messed up.  Fixed the quote machine but can't get the weather api to work. WTF? Transferred the wiki code I have so far to codepen last night with surprisingly little difficulty.
+
+
+### Day 28: August 13, 2017
+
+**Plan**: Either try to get weather project working again or start constructing code to pull search results from wikipedia. Or both.
 
 **Today's Progress**:
 
 **Thoughts**:
-
-
-
-
 
 
 
