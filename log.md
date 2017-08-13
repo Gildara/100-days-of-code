@@ -228,9 +228,19 @@ That should be good for several aggravating days.
 
 **Plan**: Either try to get weather project working again or start constructing code to pull search results from wikipedia. Or both.
 
-**Today's Progress**:
+**Today's Progress**: Found the problems with the weather app and fixed them.  Wrote down a bunch of notes on jQuery and ajax requests that seem useful for the wikipedia viewer. 
 
-**Thoughts**:
+**Thoughts**: I'm still puzzled as to why my weather app stopped working.  Someone suggested I might need a new appi key, but changing that didn't seem to do anything. Anyway I fixed it.
+
+
+### Day 29: August 14, 2017
+
+**Plan**: Start making Wiki Viewer work.  Get the call to the api worked out.
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
 
 
 
