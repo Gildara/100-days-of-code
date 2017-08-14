@@ -237,9 +237,19 @@ That should be good for several aggravating days.
 
 **Plan**: Start making Wiki Viewer work.  Get the call to the api worked out.
 
-**Today's Progress**: 
+**Today's Progress**: Got the ajax call to the wikiapp working. Ran into another problem with element positioning. 
 
-**Thoughts**: 
+**Thoughts**: I feel like I am learning a lot.  I'm almost always going way over my hour minimum because I get absorbed in the work.
+ <3 <3 <3 flow
+ 
+ 
+ ### Day 30: August 15, 2017
+ 
+ **Plan**: See if I can apply the code from the first form to make the 2nd form look the way I originally wanted it.
+ 
+ **Today's Progress**: 
+ 
+ **Thoughts**: 
 
 
 
