@@ -247,9 +247,18 @@ That should be good for several aggravating days.
  
  **Plan**: See if I can apply the code from the first form to make the 2nd form look the way I originally wanted it.
  
- **Today's Progress**: 
+ **Today's Progress**: Struggled with stupid form and its css.  Very little progress made.
  
- **Thoughts**: 
+ **Thoughts**: Did my coding in the evening so i could participate in an online coding group. The group was very nice but I do better if I work in the morning. 
+ 
+ 
+  ### Day 31: August 16, 2017
+ 
+  **Plan**: Attack form with renewed vigor.
+   
+  **Today's Progress**: 
+   
+  **Thoughts**: 
 
 
 
