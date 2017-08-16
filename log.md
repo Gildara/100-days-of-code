@@ -251,7 +251,8 @@ That should be good for several aggravating days.
  
  **Thoughts**: Did my coding in the evening so I could participate in an online coding group. The group was very nice but I do better if I work in the morning. 
  
- 
+
+
   ### Day 31: August 16, 2017
  
   **Plan**: Attack form with renewed vigor.
@@ -261,13 +262,14 @@ That should be good for several aggravating days.
   **Thoughts**:  I was super tempted to skip today because I was all stressed out trying to deal with bureaucracy, but I pushed through. I don't know why I am being so picky about the css. It's not like the javascript code I write isn't baby code, so why should I have learned css thoroughly already? I need to move on.
   
   
-    ### Day 32: August 17, 2017
+ ### Day 32: August 17, 2017
     
-    **Plan**:  I will work on functionality. Absolutely no fussing with css. Really.
+  **Plan**:  I will work on functionality. Absolutely no fussing with css. Really.
     
-     **Today's Progress**: 
+  **Today's Progress**: 
      
-     **Thoughts**: 
+  **Thoughts**:  
+    
 
 
 
