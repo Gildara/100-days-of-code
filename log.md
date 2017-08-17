@@ -266,9 +266,18 @@ That should be good for several aggravating days.
     
   **Plan**:  I will work on functionality. Absolutely no fussing with css. Really.
     
-  **Today's Progress**: 
+  **Today's Progress**: Worked on functionality for wikipedia viewer. Added instructions on empty search with jQuery. I still have to get the json data onto my page and I am not sure how to do that. But the first button does call the data correctly.
      
-  **Thoughts**:  
+  **Thoughts**: Definitely best to work in the morning. I'm smarter and my frustration tolerance is higher. Really enjoying this project.
+  
+  
+   ### Day 33: August 18, 2017
+    
+  **Plan**: Continue work on random button. Reconsider calling url with js if necessary.
+  
+   **Today's Progress**: 
+   
+   **Thoughts**:
     
 
 
