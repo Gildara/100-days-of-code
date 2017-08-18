@@ -271,13 +271,22 @@ That should be good for several aggravating days.
   **Thoughts**: Definitely best to work in the morning. I'm smarter and my frustration tolerance is higher. Really enjoying this project.
   
   
-   ### Day 33: August 18, 2017
+ ### Day 33: August 18, 2017
     
-  **Plan**: Continue work on random button. Reconsider calling url with js if necessary.
+ **Plan**: Continue work on random button. Reconsider calling url with js if necessary.
   
-   **Today's Progress**: 
+ **Today's Progress**: Got distracted by codeschool's free weekend. Checked out several tracks.
    
-   **Thoughts**:
+ **Thoughts**: I seem to be procrastinating.
+   
+   
+  ### Day 34: August 19, 2017
+  
+ **Plan**: I'm going to allow another day of codeschool so I can check out their sass and flexbox courses, as well as the regular javascript track. Also need to transfer all the new code to codepen so I can post a link to it here.
+   
+**Today's Progress**:  
+
+ **Thoughts**: 
     
 
 
