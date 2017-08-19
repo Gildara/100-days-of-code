@@ -284,9 +284,18 @@ That should be good for several aggravating days.
   
  **Plan**: I'm going to allow another day of codeschool so I can check out their sass and flexbox courses, as well as the regular javascript track. Also need to transfer all the new code to codepen so I can post a link to it here.
    
-**Today's Progress**:  
+**Today's Progress**:  Worked on Sass and flexbox on code school.
 
- **Thoughts**: 
+ **Thoughts**: Codeschool is pretty cool, but I think I need to put most of my time into projects.
+ 
+ 
+ ### Day 35: August 20, 2017
+ 
+ **Plan**: Continue with codeschool courses as this is the last day it is free.
+ 
+ **Today's Progress**: 
+ 
+  **Thoughts**:
     
 
 
