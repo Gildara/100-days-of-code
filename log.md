@@ -293,9 +293,18 @@ That should be good for several aggravating days.
  
  **Plan**: Continue with codeschool courses as this is the last day it is free.
  
- **Today's Progress**: 
+ **Today's Progress**: More flexbox and Sass. 
  
-  **Thoughts**:
+  **Thoughts**: I need to get serious and go back to freecodecamp.
+  
+  
+   ### Day 36: August 21, 2017
+   
+   **Plan**: Back to Wikipedia viewer.
+   
+   **Today's Progress**:
+    
+   **Thoughts**: 
     
 
 
