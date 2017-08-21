@@ -302,9 +302,18 @@ That should be good for several aggravating days.
    
    **Plan**: Back to Wikipedia viewer.
    
-   **Today's Progress**:
+   **Today's Progress**: Worked on wikipedia reader. Read about closures.
     
-   **Thoughts**: 
+   **Thoughts**: I'm much happier when I am working on fcc stuff, because i truly belief it is the best way to learn. 
+   
+   
+  ### Day 37: August 22, 2017
+    
+  **Plan**: Work on displaying data from wikipedia. Also can spend some time looking into dot net, but only after some decent work on fcc project.
+  
+  **Today's Progress**:
+  
+  **Thoughts**: 
     
 
 
