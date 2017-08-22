@@ -311,9 +311,18 @@ That should be good for several aggravating days.
     
   **Plan**: Work on displaying data from wikipedia. Also can spend some time looking into dot net, but only after some decent work on fcc project.
   
-  **Today's Progress**:
+  **Today's Progress**: Sidetracked by wordpress. Ugh. Looked into dot net and C# and felt tired.
   
-  **Thoughts**: 
+  **Thoughts**: My energy is too scattered. Not sleeping well. Can't concentrate.  Just want to sleep.
+  
+  
+    ### Day 38: August 23, 2017
+    
+  **Plan**: Same as yesterday since I didn't get to it: Work on displaying data from wikipedia. 
+  
+   **Today's Progress**:
+   
+    **Thoughts**: 
     
 
 
