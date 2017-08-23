@@ -14,7 +14,6 @@
 
 **Thoughts**:This is much harder than it was in javascript.  I thought the prof said in the lecture(edx cs50 week 2) that you could cast a string as a number just by putting it into a mathematical expression, but I couldn't get it to work. Maybe argv[] is a special case. I ended up c&ping some code I don't completely understand to force argv[n] to be a number.  The code used pointers which haven't even been mentioned yet in class so I suspect I did not do this in the way they wanted.
 
-
 ### Day 2: July 18, 2017
 
 **Today's Progress:** Trying to get a copy of my project on my local machine.  Works fine on codepen, doesn't work from local copy.
@@ -304,7 +303,7 @@ That should be good for several aggravating days.
    
    **Today's Progress**: Worked on wikipedia reader. Read about closures.
     
-   **Thoughts**: I'm much happier when I am working on fcc stuff, because i truly belief it is the best way to learn. 
+   **Thoughts**: I'm much happier when I am working on fcc stuff, because I truly belief it is the best way to learn. 
    
    
   ### Day 37: August 22, 2017
@@ -320,9 +319,20 @@ That should be good for several aggravating days.
     
   **Plan**: Same as yesterday since I didn't get to it: Work on displaying data from wikipedia. 
   
-   **Today's Progress**:
+   **Today's Progress**: Got the search working on wikipedia viewer!
    
-    **Thoughts**: 
+    **Thoughts**: Working on fcc stuff is more fun the more I learn. I still have a few things I want to do with wiki viewer but the functionality is done.
+    
+    **Link to project**: https://codepen.io/Gildara/pen/NgXjvo
+    
+     
+  ### Day 39: August 24, 2017
+  
+ **Plan**: Work on making the rectangles invisible until button is clicked and/or a read more link for each article.
+ 
+  **Today's Progress**: 
+    
+  **Thoughts**: 
     
 
 
