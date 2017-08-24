@@ -330,10 +330,11 @@ That should be good for several aggravating days.
   
  **Plan**: Work on making the rectangles invisible until button is clicked and/or a read more link for each article.
  
-  **Today's Progress**: 
+  **Today's Progress**:  Very engrossed in project today. Tried many ways to make hidden content visible on click. No success yet.
     
-  **Thoughts**: 
-    
+  **Thoughts**: NEED TO SAVE WORK BEFORE I START CHANGING THINGS.  I may be looking for a direct and easy solution when there isn't one.
+    Have to sleep on it.
+     
 
 
 
