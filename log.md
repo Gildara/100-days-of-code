@@ -334,6 +334,24 @@ That should be good for several aggravating days.
     
   **Thoughts**: NEED TO SAVE WORK BEFORE I START CHANGING THINGS.  I may be looking for a direct and easy solution when there isn't one.
     Have to sleep on it.
+    
+ 
+ ### Day 40: August 25, 2017
+   
+  **Plan**: Continue trying to make the rectangles do what I want them to do.
+  
+ **Today's Progress**: Tried a bunch more things but none of them worked.  I have an idea how to simplify the problem though, which I will try tomorrow.
+ 
+**Thoughts**:  NEED TO SAVE WORK BEFORE I START CHANGING THINGS. This project is challenging and frustrating for me  and I really like it.  I have rarely challenged myself in life. Heh, maybe I should be honest and change that rarely to never.
+
+
+ ### Day 41: August 26, 2017
+ 
+ **Plan**: Make a fresh copy of the project and strip down the page to simplify it so I can figure out what the problem is.
+ 
+ **Today's Progress**: 
+ 
+ **Thoughts**: 
      
 
 
