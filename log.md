@@ -349,9 +349,20 @@ That should be good for several aggravating days.
  
  **Plan**: Make a fresh copy of the project and strip down the page to simplify it so I can figure out what the problem is.
  
- **Today's Progress**: 
+ **Today's Progress**: Fixed the problem with the rectangles not displaying the way I wanted them to.
  
- **Thoughts**: 
+ **Thoughts**: Had this weird dream where js/css was floating past me and woke up with a vague sense that I knew how to solve my problem.  Thank you subconscience! What would I do without you?
+ 
+ **Link to Project** https://codepen.io/Gildara/pen/NgXjvo 
+ 
+ 
+  ### Day 42: August 27, 2017
+  
+   **Plan**:  Start figuring out read more button.
+   
+   **Today's Progress**: 
+   
+    **Thoughts**: 
      
 
 
