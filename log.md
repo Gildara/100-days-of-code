@@ -358,11 +358,20 @@ That should be good for several aggravating days.
  
   ### Day 42: August 27, 2017
   
-   **Plan**:  Start figuring out read more button.
+   **Plan**:  Start figuring out read more link.
    
-   **Today's Progress**: 
+   **Today's Progress**: Worked on read more link for a long time.
    
-    **Thoughts**: 
+    **Thoughts**: Very engrossed again. Went way past the hour.  Wish I had more time/energy.
+    
+    
+ ### Day 43: August 28, 2017
+    
+ **Plan**:  Continue figuring out read more link. Don't forget to add social media links.
+ 
+ **Today's Progress**: 
+ 
+ **Thoughts**:
      
 
 
