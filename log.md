@@ -369,9 +369,21 @@ That should be good for several aggravating days.
     
  **Plan**:  Continue figuring out read more link. Don't forget to add social media links.
  
+ **Today's Progress**: Got the read more links where I want them and wae.
+ 
+ **Thoughts**: I got so deeply into a flow state that I forgot to eat and my food got cold.
+ 
+ **Link to Project** https://codepen.io/Gildara/pen/NgXjvo 
+ 
+ 
+ 
+ ### Day 44: August 29, 2017
+ 
+ **Plan**:  Try to figure out why entering search terms works correctly but entering nonsense or nothing into search only works once.  Something to do with returns?  Also don't forget about social media links.
+ 
  **Today's Progress**: 
  
- **Thoughts**:
+  **Thoughts**: 
      
 
 
