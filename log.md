@@ -381,9 +381,22 @@ That should be good for several aggravating days.
  
  **Plan**:  Try to figure out why entering search terms works correctly but entering nonsense or nothing into search only works once.  Something to do with returns?  Also don't forget about social media links.
  
- **Today's Progress**: 
+ **Today's Progress**: Tried many things. Still thinking. Will sleep on it.
  
+ **Thoughts**: Decided to forget about social media links. I can do that when I make my portfolio.  I noticed that for wikipedia viewer although the ifs catch the nonsense or enmpty text field and display the right message(once) they never change the rects to display:none. That's odd.
+  
+  
+  
+ ### Day 45: August 30, 2017
+ 
+  **Plan**: Keep sudying on why entering search terms works correctly but entering nonsense or nothing into search only works once and why the ifs catch the nonsense or enpty text field and display the right message(once) but never change the rects to display:none
+  
+  
+ **Today's Progress**: 
+  
   **Thoughts**: 
+
+  
      
 
 
