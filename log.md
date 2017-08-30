@@ -389,12 +389,22 @@ That should be good for several aggravating days.
   
  ### Day 45: August 30, 2017
  
-  **Plan**: Keep sudying on why entering search terms works correctly but entering nonsense or nothing into search only works once and why the ifs catch the nonsense or enpty text field and display the right message(once) but never change the rects to display:none
+  **Plan**: Keep studying on why entering search terms works correctly but entering nonsense or nothing into search only works once and why the ifs catch the nonsense or empty text field and display the right message(once) but never change the rects to display:none
+  
+ **Today's Progress**: Worked on learning some css.
+  
+**Thoughts**: Got distracted by the freecodecamp beta site.  Started working through some of the challenges in the css section and actually learned a few things I didn't know or didn't understand completely. I sure get distracted a lot.
   
   
+   ### Day 46: August 31, 2017
+   
+ **Plan**: Keep working on freecodecamp beta site and/or on wiki viewer.
+   
  **Today's Progress**: 
-  
-  **Thoughts**: 
+ 
+ **Thoughts**: 
+   
+   
 
   
      
