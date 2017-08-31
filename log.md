@@ -400,9 +400,18 @@ That should be good for several aggravating days.
    
  **Plan**: Keep working on freecodecamp beta site and/or on wiki viewer.
    
- **Today's Progress**: 
+ **Today's Progress**: Worked on wiki viewer but haven't been able to solve the button only works once problem.  Also worked on applied  visual design section of fcc curriculum.
  
- **Thoughts**: 
+ **Thoughts**: It's really aggravating when you see so many people having the same problem you are having, and seeing many solutions which make sense, and trying them all, and nothing works. This button only works once problem is a very common problem, apparently. I may need to ask for help, but i want to see if I can puzzle it out myself first.
+ 
+ 
+ ### Day 47: Sept. 1, 2017
+ 
+ **Plan**: Applied visual design.
+ 
+  **Today's Progress**: 
+  
+   **Thoughts**: 
    
    
 
