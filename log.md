@@ -409,13 +409,21 @@ That should be good for several aggravating days.
  
  **Plan**: Applied visual design.
  
-  **Today's Progress**: 
+  **Today's Progress**: Did some applied visual design challenges and started reading new book on responsive web design.  Also spent a little time on c# and .net.
   
-   **Thoughts**: 
+  **Thoughts**: I find visual studio extremely annoying but C# seems kinda interesting.  I'd like to just concentrate on fcc and learning Javascript, but I feel like i should try to learn something about c#njust in case there really is work I can do in that
+  language. 
    
    
-
+ ### Day 48: Sept. 2, 2017
   
+ **Plan**: Applied visual design challenge and, new book on responsive web design.
+ 
+ 
+ **Today's Progress**: 
+  
+  **Thoughts**: 
+ 
      
 
 
