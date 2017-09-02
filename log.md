@@ -417,12 +417,21 @@ That should be good for several aggravating days.
    
  ### Day 48: Sept. 2, 2017
   
- **Plan**: Applied visual design challenge and, new book on responsive web design.
+ **Plan**: Applied visual design challenge and new book on responsive web design.
  
  
- **Today's Progress**: 
+ **Today's Progress**: Worked through some more of the applied visual design section of fcc with several forays to other sites to explore the subjects in a little more depth. Read more of Responsive Web Design book.
   
-  **Thoughts**: 
+  **Thoughts**: Wow! I had no idea about all these cool things you can do with css3. Fascinating. Can't wait for projects. As regards the responsive web design book, I need to apply what I know about learning and not read stuff I already know.  I do not have to read every page, just quickly go through and find the info that is useful and new to me.
+  
+  
+  ### Day 49: Sept. 3, 2017
+  
+   **Plan**: Finish applied visual design.  Read more in responsive book or start next section of fcc if there is time.
+   
+    **Today's Progress**: 
+    
+      **Thoughts**:
  
      
 
