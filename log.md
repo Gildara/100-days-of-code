@@ -429,9 +429,19 @@ That should be good for several aggravating days.
   
    **Plan**: Finish applied visual design.  Read more in responsive book or start next section of fcc if there is time.
    
-    **Today's Progress**: 
+  **Today's Progress**:  Finished applied visual design.
     
-      **Thoughts**:
+   **Thoughts**: Loads of stuff here that is new to me.  
+      
+      
+   ### Day 50: Sept. 4, 2017
+   
+   **Plan**: Applied accessibility and responsive web design book or C# video tutorial.
+   
+   
+  **Today's Progress**: 
+  
+   **Thoughts**:
  
      
 
