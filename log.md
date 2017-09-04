@@ -439,9 +439,19 @@ That should be good for several aggravating days.
    **Plan**: Applied accessibility and responsive web design book or C# video tutorial.
    
    
-  **Today's Progress**: 
+  **Today's Progress**: Started youtube tutorial on C# and dot net, read more about responsive web design, and worked through several challenges from Applied Accessibility section of fcc.
   
-   **Thoughts**:
+   **Thoughts**: It may be better to spread my work between different topics like this so I can stay focused. Keep on keeping on.
+   
+   
+    ### Day 51: Sept. 5, 2017
+    
+    
+   **Plan**: Applied accessibility and responsive web design book or C# video tutorial.
+   
+    **Today's Progress**: 
+    
+       **Thoughts**: 
  
      
 
