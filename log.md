@@ -446,12 +446,20 @@ That should be good for several aggravating days.
    
     ### Day 51: Sept. 5, 2017
     
-    
-   **Plan**: Applied accessibility and responsive web design book or C# video tutorial.
+  **Plan**: Applied accessibility and responsive web design book or C# video tutorial.
    
-    **Today's Progress**: 
+   **Today's Progress**: Finished Applied Accessibility section of fcc.
     
-       **Thoughts**: 
+    **Thoughts**: Really enjoying this. Having tried to make a few projects, I can see how useful this stuff is.  Can't wait to start trying all this out. 
+    
+    
+  ### Day 52: Sept. 6, 2017
+  
+  **Plan**:Do Responsive Web Design Principles on fcc beta. If time can watch more C# and/or read more of responsive web design book.
+  
+   **Today's Progress**:
+   
+   **Thoughts**: 
  
      
 
