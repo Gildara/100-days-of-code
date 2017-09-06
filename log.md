@@ -457,9 +457,19 @@ That should be good for several aggravating days.
   
   **Plan**:Do Responsive Web Design Principles on fcc beta. If time can watch more C# and/or read more of responsive web design book.
   
-   **Today's Progress**:
+   **Today's Progress**:Finished responsive web design challenges and now ready to start projects.
    
-   **Thoughts**: 
+   **Thoughts**: I am intending to redo the ones I have already finished so I can apply some of the stuff I have learned. Going to try to stick to html and css only, since that is all the first section covers. 
+   
+   
+   ### Day 53: Sept. 7, 2017
+     
+  **Plan**: First up:tribute page! TDD! Exciting!
+  
+  **Today's Progress**:F
+  
+  **Thoughts**: 
+    
  
      
 
