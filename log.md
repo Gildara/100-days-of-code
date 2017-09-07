@@ -466,7 +466,18 @@ That should be good for several aggravating days.
      
   **Plan**: First up:tribute page! TDD! Exciting!
   
-  **Today's Progress**:F
+  **Today's Progress**:Started work on tribute page.9/10 tests passing. Really enjoying the TDD.
+  https://codepen.io/Gildara/pen/JyqWRz
+  
+  
+  **Thoughts**: Still clueless about design. I think I will go back to applied visual design and see if there is something there that will help me.
+  
+  
+  ### Day 54: Sept. 8, 2017
+     
+  **Plan**: Place image so last test will pass. Look back over visual design for ideas.
+  
+  **Today's Progress**:
   
   **Thoughts**: 
     
