@@ -477,8 +477,18 @@ That should be good for several aggravating days.
      
   **Plan**: Place image so last test will pass. Look back over visual design for ideas.
   
+  **Today's Progress**:Looked around,picked out, and uploaded some pics for tribute site. tests passing- 10/10.
+  
+  **Thoughts**: I tried centering my image with flexbox, but even though the image did center, it wouldn't pass the test. Had to use margin:auto. I hope that doesn't mean i can't use flexbox, cause I really wanted to play around with it.
+  
+  
+  ### Day 55: Sept. 9, 2017
+     
+ **Plan**: Start styling the tribute page and adding content. Remember to back everything up before starting cause I will surely make a godawful mess at first.
+ 
   **Today's Progress**:
   
+   
   **Thoughts**: 
     
  
