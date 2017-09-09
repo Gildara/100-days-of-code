@@ -486,10 +486,19 @@ That should be good for several aggravating days.
      
  **Plan**: Start styling the tribute page and adding content. Remember to back everything up before starting cause I will surely make a godawful mess at first.
  
-  **Today's Progress**:
+  **Today's Progress**: Making good progress on tribute page. Learning how little I know.
   
    
-  **Thoughts**: 
+  **Thoughts**: So when it comes down to it, I hardly know how to do anything. Lol! As always, real learning will not begin until the brain decides the information is truly needed.
+  
+ 
+   ### Day 56: Sept. 10, 2017
+   
+  **Plan**: Continue with tribute page. Check if tests are still passing on codepen.
+  
+    **Today's Progress**: 
+    
+    **Thoughts**: 
     
  
      
