@@ -496,9 +496,21 @@ That should be good for several aggravating days.
    
   **Plan**: Continue with tribute page. Check if tests are still passing on codepen.
   
-    **Today's Progress**: 
+    **Today's Progress**: Continued working on styling for tribute page. Also spent some time looking at websites.
     
-    **Thoughts**: 
+    **Thoughts**: I need to take the time to look closely at a lot of sites if I want to develop some kind of design ability.
+    I do believe this can be learned, but it is going to take a lot of work. I don't expect to ever be a great designer, but I believe I can learn to be okay.
+    
+    
+    ### Day 57: Sept. 11, 2017
+    
+   **Plan**: Keep on keeping on with tribute page.
+   
+   **Today's Progress**:
+   
+    **Thoughts**:
+   
+     
     
  
      
