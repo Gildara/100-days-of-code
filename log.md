@@ -506,9 +506,21 @@ That should be good for several aggravating days.
     
    **Plan**: Keep on keeping on with tribute page.
    
-   **Today's Progress**:
+   **Today's Progress**: Started making a todo list with javascript and reviewing some flexbox stuff to use on tribute page.
    
-    **Thoughts**:
+    **Thoughts**: So. Many. Shiny. Things.
+    
+    
+    
+    ### Day 58: Sept. 12, 2017
+    
+   **Plan**: Continue implementing flexbox on tribute page and make first version of todo list. Start second version if time.
+   
+   **Today's Progress**: 
+   
+     **Thoughts**: 
+   
+
    
      
     
