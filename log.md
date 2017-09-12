@@ -516,9 +516,18 @@ That should be good for several aggravating days.
     
    **Plan**: Continue implementing flexbox on tribute page and make first version of todo list. Start second version if time.
    
-   **Today's Progress**: 
+   **Today's Progress**: More work on to do list and tribute page.
    
-     **Thoughts**: 
+    **Thoughts**: I'm never going to be a very good designer, but i am slowly improving, and that progress is all I want.  Still very highly motivated.
+    
+    
+  ### Day 59: Sept. 13, 2017
+  
+  **Plan**: More to do list and tribute page.
+  
+    **Today's Progress**:
+    
+    **Thoughts**: 
    
 
    
