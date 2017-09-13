@@ -525,9 +525,18 @@ That should be good for several aggravating days.
   
   **Plan**: More to do list and tribute page.
   
-    **Today's Progress**:
+    **Today's Progress**: Learned about objects in js and did some styling of tribute page.
     
-    **Thoughts**: 
+    **Thoughts**: Very pleased with my tribute page so far.  I know it isn't gorgeous like some people's pages, but it is a big improvement for me. It doesn't look bad!
+    
+    
+  ### Day 60: Sept. 14, 2017
+  
+  **Plan**: Finish choosing fonts for tribute page and continue working on todo list.
+  
+  **Today's Progress**:
+  
+    **Thoughts**:
    
 
    
