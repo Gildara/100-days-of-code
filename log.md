@@ -534,9 +534,18 @@ That should be good for several aggravating days.
   
   **Plan**: Finish choosing fonts for tribute page and continue working on todo list.
   
-  **Today's Progress**:
+  **Today's Progress**: Added toggle to indicate if task has been completed to to do list.  Adding flexbox to tribute page.
   
-    **Thoughts**:
+  **Thoughts**: Learning soooo much. Amazing how much I thought I had learned about flexbox through tutorials. Only now as I am applying it to my tribute page am I starting to learn.
+  
+  
+ ### Day 61: Sept. 15, 2017
+ 
+   **Plan**: Keep styling tribute page and making it responsive.  Continue refactoring javascript todo list code.
+   
+     **Today's Progress**: 
+     
+       **Thoughts**: 
    
 
    
