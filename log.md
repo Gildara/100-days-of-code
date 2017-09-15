@@ -543,9 +543,19 @@ That should be good for several aggravating days.
  
    **Plan**: Keep styling tribute page and making it responsive.  Continue refactoring javascript todo list code.
    
-     **Today's Progress**: 
+   **Today's Progress**: More refactoring of todo list code. Struggling today with syntax related to objects. Need more practice.
      
-       **Thoughts**: 
+    **Thoughts**: Didn't get to work on tribute page due to time constraints.  But my understanding of js objects is getting better. Progress is progress and I've almost got it. I am here for the process so it doesn't matter how far I get.
+    
+    
+    
+ ### Day 62: Sept. 16, 2017
+ 
+ **Plan**: Repeat work on to do list with objects.
+   
+  **Today's Progress**:
+   
+  **Thoughts**:
    
 
    
