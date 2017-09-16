@@ -548,14 +548,21 @@ That should be good for several aggravating days.
     **Thoughts**: Didn't get to work on tribute page due to time constraints.  But my understanding of js objects is getting better. Progress is progress and I've almost got it. I am here for the process so it doesn't matter how far I get.
     
     
-    
- ### Day 62: Sept. 16, 2017
- 
+  ### Day 62: Sept. 16, 2017
+  
  **Plan**: Repeat work on to do list with objects.
    
-  **Today's Progress**:
+  **Today's Progress**: So exhausted today I decided it would be conter productive to try to do anything really hard, so I worked on flexbox tutorial.  It's a very good tutorial and it is clearing up a lot of my flexy confusion.
    
-  **Thoughts**:
+  **Thoughts**: Next round of 100 days of code I am taking every Saturday off as well as allowing myself 10 mental health days whenever I need them.  Keeping this up when so much is going on in my life is really stressful, but I really want to see through this first round with no breaks if i possibly can.
+  
+ ### Day 63: Sept. 17, 2017
+ 
+ **Plan**: Repeat work on to do list with objects.
+ 
+ **Today's Progress**: 
+ 
+ **Thoughts**: 
    
 
    
