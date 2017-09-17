@@ -560,9 +560,18 @@ That should be good for several aggravating days.
  
  **Plan**: Repeat work on to do list with objects.
  
- **Today's Progress**: 
+ **Today's Progress**: Reveiwing and redoing javascript todolist objects, this keyword and closures.
  
- **Thoughts**: 
+ **Thoughts**: I don't know why I am having so much trouble with this. I'll give it one more day and then I will move on.
+ 
+ 
+  ### Day 64: Sept. 18, 2017
+ 
+ **Plan**: Repeat work on to do list with objects, this keyword and closures.
+ 
+  **Today's Progress**:
+  
+   **Thoughts**: 
    
 
    
