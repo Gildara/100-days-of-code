@@ -42,7 +42,6 @@
 **Thoughts**: What's happening is kinda weird. Sometimes it gives me values and sometimes it gives me addresses. I think?...
 
 
-
 ### Day 6: July 22, 2017
 
 **Today's Progress**: Started 30 days of code challenge and did the first challenge in c and in javascript. Went back over part of the second week lecture from cs50 to see if there is anything that might help me solve Caesar's Cipher without using pointers.
@@ -569,9 +568,19 @@ That should be good for several aggravating days.
  
  **Plan**: Repeat work on to do list with objects, this keyword and closures.
  
-  **Today's Progress**:
+  **Today's Progress**: To do list objects:check.  This keyword:check.  Closures:check. Also worked on links and footer for Tribute Page. 
   
-   **Thoughts**: 
+   **Thoughts**: Got a lot done today. Very pleased.
+   
+   
+   
+  ### Day 65: Sept. 19, 2017
+  
+   **Plan**: Continue with to do list project and/or tribute page.
+   
+    **Today's Progress**:
+    
+       **Thoughts**:
    
 
    
