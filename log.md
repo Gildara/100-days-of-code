@@ -578,9 +578,18 @@ That should be good for several aggravating days.
   
    **Plan**: Continue with to do list project and/or tribute page.
    
-    **Today's Progress**:
+   **Today's Progress**: Worked on implementing loops for to do list project and styling for tribute page.
     
-       **Thoughts**:
+   **Thoughts**: I'm tired and hungry. This coding thing is getting to be an obsession. 
+   
+   
+  ### Day 66: Sept. 20, 2017
+        
+  **Plan**: Continue with to do list project and/or tribute page.
+  
+  **Today's Progress**: 
+  
+  **Thoughts**: T
    
 
    
