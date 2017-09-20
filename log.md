@@ -587,9 +587,19 @@ That should be good for several aggravating days.
         
   **Plan**: Continue with to do list project and/or tribute page.
   
-  **Today's Progress**: 
+  **Today's Progress**: Spent the whole day on css for tribute page.
   
-  **Thoughts**: T
+  **Thoughts**: Even with flixbox I am struggling to position items on the page. I guess the next thing will be css grid. 
+  whyyyy is this soooo hard?
+  
+  
+ ### Day 67: Sept. 21, 2017
+ 
+ **Plan**: Continue with to do list project and/or tribute page.
+ 
+ **Today's Progress**: 
+   
+ **Thoughts**: 
    
 
    
