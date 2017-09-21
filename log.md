@@ -597,9 +597,18 @@ That should be good for several aggravating days.
  
  **Plan**: Continue with to do list project and/or tribute page.
  
- **Today's Progress**: 
+ **Today's Progress**: Progress? What progress? Worked on responsiveness for tribute page. Tomorrow I am going to pull out the troublesome section and try working on it in isolation.
    
- **Thoughts**: 
+ **Thoughts**: I ask again: why  is layout so fucking hard?
+ 
+ 
+  ### Day 68: Sept. 22, 2017
+  
+ **Plan**: Pull out the ul items and work on just that section in isolationand/or loops for to do list project.
+   
+ **Today's Progress**:
+    
+  **Thoughts**: 
    
 
    
