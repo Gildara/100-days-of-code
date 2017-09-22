@@ -604,9 +604,19 @@ That should be good for several aggravating days.
  
   ### Day 68: Sept. 22, 2017
   
- **Plan**: Pull out the ul items and work on just that section in isolationand/or loops for to do list project.
+ **Plan**: Pull out the ul items and work on just that section in isolation and/or loops for to do list project.
    
- **Today's Progress**:
+ **Today's Progress**: Decided to redo tribute page mobile first. Having the same problems I had the other way.  
+    
+  **Thoughts**: Argh... no one said this would be easy. I wonder what would happen if I put all the elements
+  inside one big ol' flexbox?
+  
+  
+  ### Day 69: Sept. 23, 2017
+   
+  **Plan**: Use flexbox on mobile tribute page and /or work on to do list project.
+   
+  **Today's Progress**: 
     
   **Thoughts**: 
    
