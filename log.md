@@ -612,13 +612,22 @@ That should be good for several aggravating days.
   inside one big ol' flexbox?
   
   
-  ### Day 69: Sept. 23, 2017
+ ### Day 69: Sept. 23, 2017
    
-  **Plan**: Use flexbox on mobile tribute page and /or work on to do list project.
+ **Plan**: Use flexbox on mobile tribute page and /or work on to do list project.
    
-  **Today's Progress**: 
+ **Today's Progress**: Started taking a free udacity course on responsive design because I feel like I am now ready for an overview.
     
-  **Thoughts**: 
+ **Thoughts**: It's good I am not in any particualr hurry.
+  
+  
+ ### Day 70: Sept. 24, 2017
+    
+ **Plan**: Udacity course for overview of responsive design.
+  
+ **Today's Progress**: 
+   
+ **Thoughts**: 
    
 
    
