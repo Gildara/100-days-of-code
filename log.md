@@ -618,16 +618,25 @@ That should be good for several aggravating days.
    
  **Today's Progress**: Started taking a free udacity course on responsive design because I feel like I am now ready for an overview.
     
- **Thoughts**: It's good I am not in any particualr hurry.
+ **Thoughts**: It's good I am not in any particular hurry.
   
   
  ### Day 70: Sept. 24, 2017
     
  **Plan**: Udacity course for overview of responsive design.
   
- **Today's Progress**: 
+ **Today's Progress**: I tried. I'll try some more tomorrow.
    
- **Thoughts**: 
+ **Thoughts**:  Responsive web design is not as easy as I thought it would be.
+ 
+ 
+  ### Day 71: Sept. 25, 2017
+  
+  **Plan**: Udacity course for overview of responsive design.
+   
+  **Today's Progress**: 
+    
+  **Thoughts**:  
    
 
    
