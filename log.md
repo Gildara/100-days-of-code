@@ -634,9 +634,18 @@ That should be good for several aggravating days.
   
   **Plan**: Udacity course for overview of responsive design.
    
-  **Today's Progress**: 
+  **Today's Progress**: Took notes about responsive design and laid out a detailed plan for starting tribute page mobile first.
     
-  **Thoughts**:  
+  **Thoughts**: There's just so much to learn, and I am interested in EVERYTHING.
+  
+  
+ ### Day 72: Sept. 26, 2017
+  
+ **Plan**: More rwd class and/or start mobile version of tribute page.
+ 
+ **Today's Progress**: 
+  
+ **Thoughts**: 
    
 
    
