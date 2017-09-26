@@ -643,9 +643,20 @@ That should be good for several aggravating days.
   
  **Plan**: More rwd class and/or start mobile version of tribute page.
  
+ **Today's Progress**: Made a lot of progress on mobile tribute site. Just tweeking it now.
+  
+ **Thoughts**: Mobile first seems to be going better. Also, the practice with flex-box is solidifying my understanding.
+    All is well.
+    
+    
+ 
+ ### Day 73: Sept. 27, 2017
+ 
+ **Plan**: More work on mobile tribute page.
+  
  **Today's Progress**: 
   
- **Thoughts**: 
+ **Thoughts**:
    
 
    
