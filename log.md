@@ -649,14 +649,23 @@ That should be good for several aggravating days.
     All is well.
     
     
- 
- ### Day 73: Sept. 27, 2017
+  ### Day 73: Sept. 27, 2017
  
  **Plan**: More work on mobile tribute page.
   
- **Today's Progress**: 
+ **Today's Progress**: breakpoints and media queries
   
- **Thoughts**:
+ **Thoughts**: I waste a lot of time due to perfectionism. It is just so hard for me to skim over things even though I know 
+ it is the best way to approach this. I feel like I didn't accomplish a damn thing today. 
+ 
+ 
+  ### Day 74: Sept. 28, 2017
+  
+  **Plan**: Get through udacity thing on flexbox and/or work more on mobile version of tribute page.
+   
+  **Today's Progress**:
+   
+  **Thoughts**: 
    
 
    
