@@ -659,11 +659,20 @@ That should be good for several aggravating days.
  it is the best way to approach this. I feel like I didn't accomplish a damn thing today. 
  
  
-  ### Day 74: Sept. 28, 2017
+ ### Day 74: Sept. 28, 2017
   
-  **Plan**: Get through udacity thing on flexbox and/or work more on mobile version of tribute page.
+ **Plan**: Get through udacity thing on flexbox and/or work more on mobile version of tribute page.
    
-  **Today's Progress**:
+ **Today's Progress**: Finished flexbox thing. Moved on to responsive images.
+   
+ **Thoughts**: At some point I need to decide I know enough and get on with the page, lol.
+  
+  
+ ### Day 75: Sept. 29, 2017
+ 
+ **Plan**:  Continue Udacity responsive images class.
+  
+ **Today's Progress**: 
    
   **Thoughts**: 
    
