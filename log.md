@@ -668,13 +668,22 @@ That should be good for several aggravating days.
  **Thoughts**: At some point I need to decide I know enough and get on with the page, lol.
   
   
- ### Day 75: Sept. 29, 2017
+### Day 75: Sept. 29, 2017
  
- **Plan**:  Continue Udacity responsive images class.
+**Plan**: Continue Udacity responsive images class.
   
- **Today's Progress**: 
+**Today's Progress**: Started looking at css grid and did more of Udacity class on responsive images.
    
-  **Thoughts**: 
+**Thoughts**: Wish I had more time. I should probably cut down on the number of different things I am trying to do, but they are all so interesting.
+  
+  
+### Day 76: Sept. 30, 2017
+
+**Plan**: More CSS grid and responsive images class.  YDKJS if time. Try to push one of these so I'm not trying to do so many things at once.
+
+**Today's Progress**: 
+
+**Thoughts**: 
    
 
    
