@@ -681,7 +681,16 @@ That should be good for several aggravating days.
 
 **Plan**: More CSS grid and responsive images class.  YDKJS if time. Try to push one of these so I'm not trying to do so many things at once.
 
-**Today's Progress**: 
+**Today's Progress**: Actually ignored plan and worked on Tribute page for fcc.Deeply engrossed. In the flow. Made a lot of progress. 
+
+**Thoughts**: Feeling good.  I don't have to be a great designer, just good enough.  I can compensate by backend strength. Very tired, though.  I might be a lot smarter if I didn't have to get up at 3am to take care of old dog.
+
+
+### Day 77: Oct. 1, 2017
+
+**Plan**: Continue on tribute page.  Why did media queries stop working???  Maybe it will be obvious after a good night's sleep.
+
+**Today's Progress**:
 
 **Thoughts**: 
    
