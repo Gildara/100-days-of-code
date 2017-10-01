@@ -690,7 +690,16 @@ That should be good for several aggravating days.
 
 **Plan**: Continue on tribute page.  Why did media queries stop working???  Maybe it will be obvious after a good night's sleep.
 
-**Today's Progress**:
+**Today's Progress**: Media queries working again. Having trouble with positioning when the page goes to three columns. It's ok at first, but then it starts looking stupider and stupider.
+
+**Thoughts**: Why is layout so fucking hard? I think my flex containers are not well thought out.  Maybe I will try css grid for next project. I'm super frustrated but strangely not discouraged at all. Time to give it a rest and let the more pwoerful part of my brain chew on it.
+
+
+### Day 78: Oct. 2, 2017
+
+**Plan**: Continue on tribute page or go back to to do list project. 
+
+**Today's Progress**
 
 **Thoughts**: 
    
