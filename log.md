@@ -699,7 +699,16 @@ That should be good for several aggravating days.
 
 **Plan**: Continue on tribute page or go back to to do list project. 
 
-**Today's Progress**
+**Today's Progress**: Things just don't work quite the way I expect them to. 
+
+**Thoughts**:  Argh. Tired, hungry, and cross. I need a good night's sleep and someone to make me a wholesome meal.
+
+
+### Day 79: Oct. 3, 2017
+
+**Plan**: Continue on tribute page. Maybe look on codepen for some simple sites to study.
+
+**Today's Progress**:
 
 **Thoughts**: 
    
