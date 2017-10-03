@@ -708,9 +708,18 @@ That should be good for several aggravating days.
 
 **Plan**: Continue on tribute page. Maybe look on codepen for some simple sites to study.
 
+**Today's Progress**: Used actual paper and pen to lay out all the page elements and flex boxes. Started transferring stuff from last attempt into new attempt file, cleaning up the mess as I go.  So far, so good.
+
+**Thoughts**: Seriously, I have learned so much from all the messes I have made. Understanding some of the whys of all this on a deeper level. Invigorating exercise, good night's sleep, and decent food have helped me through my Slough of Despair.   
+
+
+### Day 80: Oct. 4, 2017
+
+**Plan**: Continue cleaning up and organising tribute page. 
+
 **Today's Progress**:
 
-**Thoughts**: 
+**Thoughts**:
    
 
    
