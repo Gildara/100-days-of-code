@@ -717,9 +717,18 @@ That should be good for several aggravating days.
 
 **Plan**: Continue cleaning up and organising tribute page. 
 
+**Today's Progress**: Just cleaning up and organizing html and css for tribute page. 
+
+**Thoughts**: So far, so good. We'll see what happens when I start the media queries again.
+
+
+### Day 81: Oct. 5, 2017
+
+**Plan**: Start cleaning up breakpoints and media queries.
+
 **Today's Progress**:
 
-**Thoughts**:
+**Thoughts**: 
    
 
    
