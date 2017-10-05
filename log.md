@@ -726,6 +726,15 @@ That should be good for several aggravating days.
 
 **Plan**: Start cleaning up breakpoints and media queries.
 
+**Today's Progress**:  Started cleaning up breakpoints and media queries for tribute page.
+
+**Thoughts**: Still can't quite grasp why the itms are so far apart on wider screen. Part of one of the pics is getting cut off and I'm pretty sure if the items would move closer together that wouldn't happen.
+
+
+### Day 82: Oct. 6, 2017
+
+**Plan**: Continue cleaning up breakpoints and media queries.
+
 **Today's Progress**:
 
 **Thoughts**: 
