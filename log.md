@@ -744,7 +744,16 @@ That should be good for several aggravating days.
 
 **Plan**: Continue cleaning up breakpoints and media queries.
 
-**Today's Progress**:  
+**Today's Progress**: Finished tribute page. Two breakpoints, one which changes the layout.  Page is responsive and passes all the tests.  
+
+**Thoughts**: It's no work of art, but I am no artist and I am just a  beginner.
+
+
+### Day 84: Oct. 8, 2017
+
+**Plan**: Check out next fcc project and/or work on todo list.
+
+**Today's Progress**:
 
 **Thoughts**:
    
