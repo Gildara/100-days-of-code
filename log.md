@@ -735,9 +735,18 @@ That should be good for several aggravating days.
 
 **Plan**: Continue cleaning up breakpoints and media queries.
 
-**Today's Progress**:
+**Today's Progress**: Made progress with mobile version through first breakpoint.  
 
-**Thoughts**: 
+**Thoughts**: For a brief moment there I thought things were actually wae.
+
+
+### Day 83: Oct. 7, 2017
+
+**Plan**: Continue cleaning up breakpoints and media queries.
+
+**Today's Progress**:  
+
+**Thoughts**:
    
 
    
