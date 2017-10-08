@@ -753,6 +753,15 @@ That should be good for several aggravating days.
 
 **Plan**: Check out next fcc project and/or work on todo list.
 
+**Today's Progress**: Attended freecodecamp meetup. Worked on to do list for a while, but then plunker started doing weird things I did not understand. 
+
+**Thoughts**: I think I probably lost the work I did today because plunker wouldn't save my project.
+
+
+### Day 85: Oct. 9, 2017
+
+**Plan**: Check out next fcc project and/or work on todo list.
+
 **Today's Progress**:
 
 **Thoughts**:
