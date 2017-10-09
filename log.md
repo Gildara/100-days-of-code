@@ -762,9 +762,18 @@ That should be good for several aggravating days.
 
 **Plan**: Check out next fcc project and/or work on todo list.
 
+**Today's Progress**: Worked on todo list. Also tried to make anchor tags to different sections of a page. 
+
+**Thoughts**: Anchor tags used to be simple to do, but now I can't get it to work. I feel like an idiot. I hate when there are simple clear directions for doing something but it doesn't work for me.
+
+
+### Day 86: Oct. 10, 2017
+
+**Plan**: Check out next fcc project and/or work on todo list.
+
 **Today's Progress**:
 
-**Thoughts**:
+**Thoughts**: 
    
 
    
