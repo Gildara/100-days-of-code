@@ -748,6 +748,8 @@ That should be good for several aggravating days.
 
 **Thoughts**: It's no work of art, but I am no artist and I am just a  beginner.
 
+**Link to project**: https://codepen.io/Gildara/pen/OxQqMz
+
 
 ### Day 84: Oct. 8, 2017
 
@@ -771,9 +773,18 @@ That should be good for several aggravating days.
 
 **Plan**: Check out next fcc project and/or work on todo list.
 
-**Today's Progress**:
+**Today's Progress**: Got my todo list code on plunker straightened out and added a bit to it. Started my survey page but then I decided to think a while and see if I could come up with something more interesting.
 
-**Thoughts**: 
+**Thoughts**: Still don't know why the anchor tags aren't wae. I even cut and pasted a simple example and I couldn't get that to work.
+
+
+### Day 87: Oct. 11, 2017
+
+**Plan**: Todo list and/or survey page I guess.
+
+**Today's Progress**: 
+
+**Thoughts**:
    
 
    
