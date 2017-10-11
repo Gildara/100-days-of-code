@@ -782,6 +782,16 @@ That should be good for several aggravating days.
 
 **Plan**: Todo list and/or survey page I guess.
 
+**Today's Progress**: Did some studying of responsive web design now that I see the problem better. Also helped Dean with his projects.
+Started working on todo list until I got stuck.
+
+**Thoughts**: Low motivation today. Feel rushed.
+
+
+### Day 88: Oct. 12, 2017
+
+**Plan**: Todo list and/or study responsive design.
+
 **Today's Progress**: 
 
 **Thoughts**:
