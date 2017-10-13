@@ -801,7 +801,16 @@ Started working on todo list until I got stuck.
 
 **Plan**: Todo list and/or study responsive design.
 
-**Today's Progress**: 
+**Today's Progress**: Worked on to do list. I see what is going wrong, but I don't see why or how.
+
+**Thoughts**: I'm puzzled. I need to walk away and come back later.
+
+
+### Day 90: Oct. 14, 2017
+
+**Plan**: Todo list and/or study responsive design.
+
+**Today's Progress**:
 
 **Thoughts**:
    
