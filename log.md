@@ -792,6 +792,15 @@ Started working on todo list until I got stuck.
 
 **Plan**: Todo list and/or study responsive design.
 
+**Today's Progress**: Worked on toggle function for to do list.  Something is wrong with my logic, or maybe it's just a mix up due to all those fors and ifs lolol.
+
+**Thoughts**: Rough day today because I took so long grocery shopping.  Do I want to constrict my freedom this much? 
+
+
+### Day 89: Oct. 13, 2017
+
+**Plan**: Todo list and/or study responsive design.
+
 **Today's Progress**: 
 
 **Thoughts**:
