@@ -810,7 +810,16 @@ Started working on todo list until I got stuck.
 
 **Plan**: Todo list and/or study responsive design.
 
-**Today's Progress**:
+**Today's Progress**: Finally figured out what was wrong with todo list code. I had a line where I misused this. And, of course, once I saw it, it was obvious and glaring, lol.
+
+**Thoughts**: Having fun again.
+
+
+### Day 91: Oct. 15, 2017
+
+**Plan**: Todo list and/or study responsive design.
+
+**Today's Progress**: 
 
 **Thoughts**:
    
