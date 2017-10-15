@@ -817,11 +817,21 @@ Started working on todo list until I got stuck.
 
 ### Day 91: Oct. 15, 2017
 
+
 **Plan**: Todo list and/or study responsive design.
+
+**Today's Progress**: Started user interface for todo list and worked on survey page at fcc meetup.
+
+**Thoughts**: I hope this group gets going.  I need other people, and I'm not picky about it, lol. Ok, wait. I am picky. I need people who won't want me to do boring things, i.e.,  anything not related to learning to code. Ihave to trys that too much to ask?  Also, being old is a definite handicap in this world, so I probably  hard if I want people.
+
+
+### Day 92: Oct. 16, 2017
+
+**Plan**: Todo list, study responsive design, work on survey page. Any or all of these are fine.
 
 **Today's Progress**: 
 
-**Thoughts**:
+**Thoughts**: 
    
 
    
