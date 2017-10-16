@@ -829,9 +829,21 @@ Started working on todo list until I got stuck.
 
 **Plan**: Todo list, study responsive design, work on survey page. Any or all of these are fine.
 
-**Today's Progress**: 
+**Today's Progress**: RWD class all about ways to control font size and started working on ui for to do list.
+
+**Thoughts**: Feeling productive and content.
+
+
+### Day 93: Oct. 17, 2017
+
+**Plan**: Todo list, study responsive design, learn css grid, work on survey page. Any or all of these are fine.
+
+**Today's Progress**:
 
 **Thoughts**: 
+
+
+
    
 
    
