@@ -822,7 +822,7 @@ Started working on todo list until I got stuck.
 
 **Today's Progress**: Started user interface for todo list and worked on survey page at fcc meetup.
 
-**Thoughts**: I hope this group gets going.  I need other people, and I'm not picky about it, lol. Ok, wait. I am picky. I need people who won't want me to do boring things, i.e.,  anything not related to learning to code. Ihave to trys that too much to ask?  Also, being old is a definite handicap in this world, so I probably  hard if I want people.
+**Thoughts**: I hope this group gets going. I need other people, and I'm not picky about it, lol. Ok, wait. I am picky. I need people who won't want me to do boring things, i.e.,  anything not related to learning to code. Is that too much to ask?  Also, being old is a definite handicap in this world, so I will have to try hard if I want people.
 
 
 ### Day 92: Oct. 16, 2017
@@ -838,7 +838,18 @@ Started working on todo list until I got stuck.
 
 **Plan**: Todo list, study responsive design, learn css grid, work on survey page. Any or all of these are fine.
 
-**Today's Progress**:
+**Today's Progress**: Put eventListeners on todo list buttons and started form for fcc survey page.
+
+**Link to Project**: https://codepen.io/Gildara/pen/mBLQVP
+
+**Thoughts**: Coding is going well.
+
+
+### Day 94: Oct. 18, 2017
+
+**Plan**: Todo list, study responsive design, learn css grid, work on survey page. Any or all of these are fine.
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
