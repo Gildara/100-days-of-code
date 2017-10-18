@@ -849,9 +849,9 @@ Started working on todo list until I got stuck.
 
 **Plan**: Todo list, study responsive design, learn css grid, work on survey page. Any or all of these are fine.
 
-**Today's Progress**: 
+**Today's Progress**: Studied fluid measurements and started todo list calling functions with buttons.
 
-**Thoughts**: 
+**Thoughts**: I actually managed to get the button on the todo list program to call the displaytodos function. Haven't yet figured out how to make one click cycle through all items in the array and print them all to the page, but I still feel accomplished.
 
 
 
