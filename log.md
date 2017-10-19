@@ -854,6 +854,22 @@ Started working on todo list until I got stuck.
 **Thoughts**: I actually managed to get the button on the todo list program to call the displaytodos function. Haven't yet figured out how to make one click cycle through all items in the array and print them all to the page, but I still feel accomplished.
 
 
+### Day 95: Oct. 19, 2017
+
+**Plan**: work on todo list
+
+**Today's Progress**: Practiced using chrome debugger.  Worked on moving display function output to web page. Made progress but not done yet.
+
+**Thoughts**: Really enjoying myself.
+
+
+### Day 96: Oct. 20, 2017
+
+**Plan**: More todo list.
+
+**Today's Progress**:
+
+**Thoughts**: 
 
    
 
