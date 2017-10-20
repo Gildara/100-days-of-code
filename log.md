@@ -867,9 +867,18 @@ Started working on todo list until I got stuck.
 
 **Plan**: More todo list.
 
-**Today's Progress**:
+**Today's Progress**: More practice with debugger. I finally understand step into and step out of. Also did some refactoring of to do list code.
 
-**Thoughts**: 
+**Thoughts**: Really pleased that I can finally use a debugger to monitor my code. Yay!
+
+
+### Day 97: Oct. 21, 2017
+
+**Plan**: More todo list.
+
+**Today's Progress**: 
+
+**Thoughts**:
 
    
 
