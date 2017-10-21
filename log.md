@@ -876,12 +876,18 @@ Started working on todo list until I got stuck.
 
 **Plan**: More todo list.
 
-**Today's Progress**: 
+**Today's Progress**: studied m/v/c thing with "Building Front-End Web Apps with Plain JavaScript".  I feel a need for a bit of an overview just now.
 
-**Thoughts**:
+**Thoughts**: 100daysofcode has caused my hobby to feel like an obligation. This is more a probem due to my perfectionism and rigid thinking than it is a problem with 100daysofcode, but I am going to take a break at the end of this round, and if I decide to do another round I will tweak the plan a bit to fall more in line with my ideas about learning and my personality.
 
    
+### Day 98: Oct. 22, 2017
 
+**Plan**: Three more days of 100daysofcode and I have lots of interesting stuff going on. Pick something.
+
+**Today's Progress**:
+
+**Thoughts**: 
    
      
     
