@@ -885,7 +885,16 @@ Started working on todo list until I got stuck.
 
 **Plan**: Three more days of 100daysofcode and I have lots of interesting stuff going on. Pick something.
 
-**Today's Progress**:
+**Today's Progress**: Got a lot of work done on survey page while at #freecodecamp meetup.
+
+**Thoughts**: Why is it so hard to get people to come out and socialize, as well as help each other out with their code problems?  I'm not extremely sociable, but friends are a very good thing to have, doubly so if those friends share your interest in coding.
+
+
+### Day 99: Oct. 23, 2017
+
+**Plan**: Work on to do list projectand/or buzz through advanced styling class.
+
+**Today's Progress**: 
 
 **Thoughts**: 
    
