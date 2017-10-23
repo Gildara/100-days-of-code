@@ -894,6 +894,15 @@ Started working on todo list until I got stuck.
 
 **Plan**: Work on to do list projectand/or buzz through advanced styling class.
 
+**Today's Progress**: All about wireframes, breakpoints, and media queries.
+
+**Thoughts**: Actually learning a bit from the advanced styling class. 
+
+
+### Day 100: Oct. 24, 2017
+
+**Plan**: Last day, work on whatever you wish.
+
 **Today's Progress**: 
 
 **Thoughts**: 
