@@ -903,9 +903,9 @@ Started working on todo list until I got stuck.
 
 **Plan**: Last day, work on whatever you wish.
 
-**Today's Progress**: 
+**Today's Progress**: Huh. Building a chrome extension is easy. Also woohoo! Day 100!
 
-**Thoughts**: 
+**Thoughts**: There were some good things and some not so good things about this 100 days of code.  Not sure if I will do another round, but if I do I am going to tweak it a bit.
    
      
     
